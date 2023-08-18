@@ -1,0 +1,5 @@
+dbr:Kirtland_I._Perky	0.23009051768906655
+dbr:Stephen_M._White	0.23021070801223806
+dbr:Frank_H._Buck	0.23036312122502584
+dbr:Thomas_M._Storke	0.23062495627670504
+dbr:Laurence_D._Fink	0.23064975044831088

@@ -1,0 +1,5 @@
+dbr:Arconic	                        0.4385167899459055
+dbr:Monolithic_Power_Systems,_Inc.	0.4401801432364113
+dbr:Frédéric_Taddeï	                0.22379667688700702
+dbr:Frantz_Reichel	                0.22384458855616257
+dbr:Pierre_Fichet	                0.22384458855616257

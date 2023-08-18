@@ -1,0 +1,5 @@
+dbr:Accrington_Stanley    0.6758071435842802
+dbr:Stalybridge_Celtic    0.6674998424428841
+dbr:Curzon_Ashton_FC      0.6668105032759173
+dbr:Radcliffe_Borough     0.6580303768256294
+dbr:Larne_FC              0.6460785625717712

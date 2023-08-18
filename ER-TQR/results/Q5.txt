@@ -1,0 +1,5 @@
+dbr:Paul_Kagame                   0.9565469733569962
+dbr:Shavkat_Mirziyoyev            0.9427634457501065
+dbr:Ivo_Josipovic                 0.9356674029752511
+dbr:Ferdinand_Romualdez_Marcos    0.9008964031057918
+dbr:Hamid_Karzai                  0.9356674029752511

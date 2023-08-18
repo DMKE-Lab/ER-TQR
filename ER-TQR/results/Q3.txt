@@ -1,0 +1,5 @@
+dbr:Liverpool           0.7942022137254755
+dbr:Bolton_Wanderers    0.7871738531931529
+dbr:Northampton_Town    0.7827488715379509
+dbr:England             0.7806487126106941
+dbr:Denmark             0.7800434208236988
