@@ -63,3 +63,11 @@ You can refer to the link  https://github.com/apoorvumang/CronKGQA.
 
 `python train.py --model ER-TQR --max_epoch 20 --learning_rate 0.1 --batch_size 128`
 
+
+## Acknowledgement
+We refer to the code of @inproceedings{saxena2021cronkgqa,
+  title={Question Answering over Temporal Knowledge Graphs},
+  author={Saxena, Apoorv and Chakrabarti, Soumen and Talukdar, Partha},
+  booktitle={Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics},
+  year={2021}
+}. Thanks for their contributions.
