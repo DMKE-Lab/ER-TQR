@@ -4,7 +4,7 @@
 
 ## Installation
 
-The implementation is based on CronKGQA in [Question Answering over Temporal Knowledge Graphs](https://arxiv.org/abs/2106.01515) and their code from https://github.com/apoorvumang/CronKGQA. You can find more installation details there.
+The implementation of the embedding part is based on CronKGQA in [Question Answering over Temporal Knowledge Graphs](https://arxiv.org/abs/2106.01515) and their code from https://github.com/apoorvumang/CronKGQA. You can find more installation details there.
 We use TComplEx KG Embeddings as implemented in https://github.com/facebookresearch/tkbc.
 
 Install ER-TQR requirements
