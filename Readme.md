@@ -61,5 +61,5 @@ You can refer to the link  https://github.com/apoorvumang/CronKGQA.
 
 `cd CRONQuestions`
 
-`python .train.py --model ER-TQR --max_epoch 20 --learning_rate 0.1 --batch_size 128`
+`python train.py --model ER-TQR --max_epoch 20 --learning_rate 0.1 --batch_size 128`
 
