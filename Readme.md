@@ -23,7 +23,7 @@ You can refer to the link  https://github.com/apoorvumang/CronKGQA.
 
 ## Running the code
 
-#### preprocessing datasets：
+#### Preprocessing datasets：
 
 **For ICEWS05-15, ICEWS14**:
 
@@ -39,7 +39,7 @@ You can refer to the link  https://github.com/apoorvumang/CronKGQA.
 
 `python qa_datasets.py`
 
-#### train and test：
+#### Train and Test：
 
 **For ICEWS05-15:**
 
